@@ -191,6 +191,7 @@ def main():
     # ---------------------------------------------------------- header
     w("# Awesome Hybrid AI for AI-Native RAN Control")
     w("")
+    w("[![arXiv](https://img.shields.io/badge/arXiv-2611.33035-b31b1b.svg)](https://arxiv.org/abs/2611.33035)")
     w("[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)")
     w("![Papers](https://img.shields.io/badge/works-%d-blue)" % len(total))
     w("[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)")
@@ -204,7 +205,7 @@ def main():
     w("> 📄 **Hybrid AI for AI-Native RAN Control: A Functional Perspective**  ")
     w("> Sabrine Aroua, Osama Arouk, Pegah Alizadeh  ")
     w("> *Under review at IEEE Communications Surveys & Tutorials.* "
-      "Preprint: [arXiv link coming soon](#citation)")
+      "Preprint: [arXiv:2611.33035](https://arxiv.org/abs/2611.33035)")
     w("")
 
     w('<p align="center">')
@@ -334,8 +335,12 @@ def main():
     w("@article{aroua2026hybrid,")
     w("  title   = {Hybrid {AI} for {AI-Native} {RAN} Control: A Functional Perspective},")
     w("  author  = {Aroua, Sabrine and Arouk, Osama and Alizadeh, Pegah},")
-    w("  journal = {arXiv preprint},")
-    w("  year    = {2026}")
+    w("  journal = {arXiv preprint arXiv:2611.33035},")
+    w("  year    = {2026},")
+    w("  eprint  = {2611.33035},")
+    w("  archivePrefix = {arXiv},")
+    w("  primaryClass  = {cs.AI},")
+    w("  url     = {https://arxiv.org/abs/2611.33035}")
     w("}")
     w("```")
     w("")

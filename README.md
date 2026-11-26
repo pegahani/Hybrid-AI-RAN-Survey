@@ -1,5 +1,6 @@
 # Awesome Hybrid AI for AI-Native RAN Control
 
+[![arXiv](https://img.shields.io/badge/arXiv-2611.33035-b31b1b.svg)](https://arxiv.org/abs/2611.33035)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Papers](https://img.shields.io/badge/works-86-blue)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
@@ -8,7 +9,7 @@ A curated collection of works on **hybrid AI for radio access network (RAN) cont
 
 > 📄 **Hybrid AI for AI-Native RAN Control: A Functional Perspective**  
 > Sabrine Aroua, Osama Arouk, Pegah Alizadeh  
-> *Under review at IEEE Communications Surveys & Tutorials.* Preprint: [arXiv link coming soon](#citation)
+> *Under review at IEEE Communications Surveys & Tutorials.* Preprint: [arXiv:2611.33035](https://arxiv.org/abs/2611.33035)
 
 <p align="center">
   <img src="figures/ran_decision_system.png" width="85%" alt="AI-native RAN control as a distributed decision-making system">
@@ -236,8 +237,12 @@ If you find this list or the survey useful, please cite:
 @article{aroua2026hybrid,
   title   = {Hybrid {AI} for {AI-Native} {RAN} Control: A Functional Perspective},
   author  = {Aroua, Sabrine and Arouk, Osama and Alizadeh, Pegah},
-  journal = {arXiv preprint},
-  year    = {2026}
+  journal = {arXiv preprint arXiv:2611.33035},
+  year    = {2026},
+  eprint  = {2611.33035},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url     = {https://arxiv.org/abs/2611.33035}
 }
 ```
 
